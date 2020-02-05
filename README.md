@@ -1,6 +1,8 @@
-# nx-caching-example
+# nx-caching-issue-2429
 
 Example demonstrating an issue with Nx's new caching feature and `@nrwl/next`.
+
+See https://github.com/nrwl/nx/issues/2429
 
 ### Usage
 
